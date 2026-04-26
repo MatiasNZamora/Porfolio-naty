@@ -1,0 +1,117 @@
+[
+  {
+    "id": "01",
+    "slug": "florecer-bienestar",
+    "year": "2025",
+    "tag": "UX/UI · Mobile",
+    "titleEs": ["Florecer", "Bienestar."],
+    "titleEn": ["Florecer", "Wellness."],
+    "italicWord": "Florecer",
+    "variant": "large",
+    "href": "#",
+    "tagBg": null,
+    "visualColor": null,
+    "descEs": "Aplicación móvil de bienestar emocional diseñada para acompañar el proceso de autoconocimiento y salud mental. El diseño transmite calma, calidez y claridad en cada interacción.",
+    "descEn": "Mobile wellness app designed to support the process of self-awareness and mental health. The design conveys calm, warmth and clarity in every interaction.",
+    "tools": ["Figma", "Maze", "Illustrator", "Notion"],
+    "images": [
+      "/projects/florecer-bienestar/img-1.jpg",
+      "/projects/florecer-bienestar/img-2.jpg",
+      "/projects/florecer-bienestar/img-3.jpg"
+    ],
+    "webUrl": "https://florecer.app",
+    "githubUrl": null
+  },
+  {
+    "id": "02",
+    "slug": "origen-cafe",
+    "year": "2025",
+    "tag": "Branding",
+    "titleEs": ["Origen", "Café."],
+    "titleEn": ["Origen", "Café."],
+    "italicWord": "Café",
+    "variant": "med sq peach",
+    "href": "#",
+    "tagBg": "var(--ivory)",
+    "visualColor": "var(--rose-deep)",
+    "descEs": "Identidad visual completa para una cafetería de especialidad en La Rioja. Desde el logomark hasta el sistema de packaging, el proyecto construye una marca cálida y auténtica.",
+    "descEn": "Complete visual identity for a specialty coffee shop in La Rioja. From the logomark to the packaging system, the project builds a warm and authentic brand.",
+    "tools": ["Illustrator", "Photoshop", "InDesign"],
+    "images": [
+      "/projects/origen-cafe/img-1.jpg",
+      "/projects/origen-cafe/img-2.jpg",
+      "/projects/origen-cafe/img-3.jpg",
+      "/projects/origen-cafe/img-4.jpg"
+    ],
+    "webUrl": null,
+    "githubUrl": null
+  },
+  {
+    "id": "03",
+    "slug": "lumen-studio",
+    "year": "2024",
+    "tag": "UX/UI · Web",
+    "titleEs": ["Lumen", "Studio."],
+    "titleEn": ["Lumen", "Studio."],
+    "italicWord": "Studio",
+    "variant": "med sq",
+    "href": "#",
+    "tagBg": null,
+    "visualColor": null,
+    "descEs": "Diseño web para un estudio de fotografía y dirección de arte. Enfocado en jerarquía visual, galería inmersiva y una experiencia fluida para mostrar el portfolio del cliente.",
+    "descEn": "Web design for a photography and art direction studio. Focused on visual hierarchy, immersive gallery and a fluid experience to showcase the client's portfolio.",
+    "tools": ["Figma", "Framer", "Notion"],
+    "images": [
+      "/projects/lumen-studio/img-1.jpg",
+      "/projects/lumen-studio/img-2.jpg"
+    ],
+    "webUrl": "https://lumenstudio.com",
+    "githubUrl": "https://github.com/#"
+  },
+  {
+    "id": "04",
+    "slug": "mate-delivery",
+    "year": "2024",
+    "tag": "UX/UI · Mobile",
+    "titleEs": ["Mate", "Delivery."],
+    "titleEn": ["Mate", "Delivery."],
+    "italicWord": "Mate",
+    "variant": "wide",
+    "href": "#",
+    "tagBg": null,
+    "visualColor": null,
+    "descEs": "App de delivery con identidad cultural argentina. Investigación de usuarios, arquitectura de información y diseño de flujos end-to-end desde el onboarding hasta el pago.",
+    "descEn": "Delivery app with Argentine cultural identity. User research, information architecture and end-to-end flow design from onboarding to payment.",
+    "tools": ["Figma", "Maze", "Miro", "Notion"],
+    "images": [
+      "/projects/mate-delivery/img-1.jpg",
+      "/projects/mate-delivery/img-2.jpg",
+      "/projects/mate-delivery/img-3.jpg"
+    ],
+    "webUrl": null,
+    "githubUrl": null
+  },
+  {
+    "id": "05",
+    "slug": "riojana-folk",
+    "year": "2024",
+    "tag": "Branding · Festival",
+    "titleEs": ["Riojana", "Folk."],
+    "titleEn": ["Riojana", "Folk."],
+    "italicWord": "Folk",
+    "variant": "med sq",
+    "href": "#",
+    "tagBg": null,
+    "visualColor": null,
+    "descEs": "Sistema de identidad para un festival de música folclórica riojana. La propuesta fusiona tipografía expresiva con ilustración tradicional para crear una pieza con fuerza cultural.",
+    "descEn": "Identity system for a folk music festival in La Rioja. The proposal fuses expressive typography with traditional illustration to create a culturally powerful piece.",
+    "tools": ["Illustrator", "Photoshop", "After Effects"],
+    "images": [
+      "/projects/riojana-folk/img-1.jpg",
+      "/projects/riojana-folk/img-2.jpg",
+      "/projects/riojana-folk/img-3.jpg"
+    ],
+    "webUrl": "https://riojanafolk.com",
+    "githubUrl": null
+  }
+]
